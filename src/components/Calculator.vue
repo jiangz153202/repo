@@ -4,7 +4,7 @@
         0    
       </div>
       <button style="grid-area: ac">AC</button>
-      <button style="grid-area: plus-minus">+\-</button>
+      <button style="grid-area: plus-minus">+\\-</button>
       <button style="grid-area: percent">%</button>
       <button style="grid-area: add">+</button>
       <button style="grid-area: subtract">-</button>

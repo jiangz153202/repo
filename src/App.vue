@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div>页面测试</div>
+    <div>页面测试3</div>
     <calculator></calculator>
   </div>
 </template>
